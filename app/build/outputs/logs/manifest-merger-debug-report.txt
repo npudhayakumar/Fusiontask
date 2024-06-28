@@ -127,7 +127,7 @@ MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /home/abservetech/Docu
 	android:label
 		ADDED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:10:13-45
 	android:roundIcon
-		ADDED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:12:13-58
+		ADDED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:12:13-50
 	android:largeHeap
 		ADDED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:11:13-37
 	android:icon

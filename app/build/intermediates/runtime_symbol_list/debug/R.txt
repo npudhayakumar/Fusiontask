@@ -3580,7 +3580,8 @@ int layout text_view_without_line_height 0x7f0d008c
 int layout upcomingadapter 0x7f0d008d
 int menu drawernavigation 0x7f0e0000
 int mipmap ic_launcher 0x7f0f0000
-int mipmap ic_launcher_round 0x7f0f0001
+int mipmap ic_launcher_foreground 0x7f0f0001
+int mipmap ic_launcher_round 0x7f0f0002
 int plurals mtrl_badge_content_description 0x7f100000
 int raw a_new_lang_template 0x7f110000
 int raw ccp_afrikaans 0x7f110001

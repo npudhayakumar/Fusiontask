@@ -4,6 +4,10 @@
         "source": "/home/abservetech/Downloads/post/app/build/generated/res/pngs/debug/drawable-mdpi/message.png"
     },
     {
+        "merged": "/home/abservetech/Downloads/post/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/abservetech/Downloads/post/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
         "merged": "/home/abservetech/Downloads/post/app/build/intermediates/res/merged/debug/drawable-xhdpi_profile.png.flat",
         "source": "/home/abservetech/Downloads/post/app/build/generated/res/pngs/debug/drawable-xhdpi/profile.png"
     },
@@ -24,8 +28,8 @@
         "source": "/home/abservetech/Downloads/post/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "/home/abservetech/Downloads/post/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "/home/abservetech/Downloads/post/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+        "merged": "/home/abservetech/Downloads/post/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/home/abservetech/Downloads/post/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.webp"
     },
     {
         "merged": "/home/abservetech/Downloads/post/app/build/intermediates/res/merged/debug/layout_activity_splash.xml.flat",
@@ -36,6 +40,10 @@
         "source": "/home/abservetech/Downloads/post/app/build/generated/res/pngs/debug/drawable-xhdpi/price.png"
     },
     {
+        "merged": "/home/abservetech/Downloads/post/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/abservetech/Downloads/post/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
         "merged": "/home/abservetech/Downloads/post/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_profile.png.flat",
         "source": "/home/abservetech/Downloads/post/app/build/generated/res/pngs/debug/drawable-xxxhdpi/profile.png"
     },
@@ -44,8 +52,20 @@
         "source": "/home/abservetech/Downloads/post/app/src/main/res/drawable/ic_launcher_background.xml"
     },
     {
+        "merged": "/home/abservetech/Downloads/post/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/home/abservetech/Downloads/post/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
         "merged": "/home/abservetech/Downloads/post/app/build/intermediates/res/merged/debug/drawable-xxhdpi_profile.png.flat",
         "source": "/home/abservetech/Downloads/post/app/build/generated/res/pngs/debug/drawable-xxhdpi/profile.png"
+    },
+    {
+        "merged": "/home/abservetech/Downloads/post/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/abservetech/Downloads/post/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/abservetech/Downloads/post/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/abservetech/Downloads/post/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
     },
     {
         "merged": "/home/abservetech/Downloads/post/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_price.png.flat",
@@ -76,6 +96,10 @@
         "source": "/home/abservetech/Downloads/post/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ifsc.xml"
     },
     {
+        "merged": "/home/abservetech/Downloads/post/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/home/abservetech/Downloads/post/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
         "merged": "/home/abservetech/Downloads/post/app/build/intermediates/res/merged/debug/layout_fragment_login.xml.flat",
         "source": "/home/abservetech/Downloads/post/app/src/main/res/layout/fragment_login.xml"
     },
@@ -88,8 +112,8 @@
         "source": "/home/abservetech/Downloads/post/app/src/main/res/layout/drawer.xml"
     },
     {
-        "merged": "/home/abservetech/Downloads/post/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "/home/abservetech/Downloads/post/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+        "merged": "/home/abservetech/Downloads/post/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/abservetech/Downloads/post/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
     },
     {
         "merged": "/home/abservetech/Downloads/post/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
@@ -128,14 +152,6 @@
         "source": "/home/abservetech/Downloads/post/app/src/main/res/layout/dialog.xml"
     },
     {
-        "merged": "/home/abservetech/Downloads/post/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "/home/abservetech/Downloads/post/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
-    },
-    {
-        "merged": "/home/abservetech/Downloads/post/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "/home/abservetech/Downloads/post/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
-    },
-    {
         "merged": "/home/abservetech/Downloads/post/app/build/intermediates/res/merged/debug/drawable-ldpi_message.png.flat",
         "source": "/home/abservetech/Downloads/post/app/build/generated/res/pngs/debug/drawable-ldpi/message.png"
     },
@@ -144,20 +160,20 @@
         "source": "/home/abservetech/Downloads/post/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ifsc.png"
     },
     {
-        "merged": "/home/abservetech/Downloads/post/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "/home/abservetech/Downloads/post/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
-    },
-    {
         "merged": "/home/abservetech/Downloads/post/app/build/intermediates/res/merged/debug/font_alex_brush.xml.flat",
         "source": "/home/abservetech/Downloads/post/app/src/main/res/font/alex_brush.xml"
+    },
+    {
+        "merged": "/home/abservetech/Downloads/post/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "/home/abservetech/Downloads/post/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.webp"
     },
     {
         "merged": "/home/abservetech/Downloads/post/app/build/intermediates/res/merged/debug/menu_drawernavigation.xml.flat",
         "source": "/home/abservetech/Downloads/post/app/src/main/res/menu/drawernavigation.xml"
     },
     {
-        "merged": "/home/abservetech/Downloads/post/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "/home/abservetech/Downloads/post/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "/home/abservetech/Downloads/post/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "/home/abservetech/Downloads/post/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.webp"
     },
     {
         "merged": "/home/abservetech/Downloads/post/app/build/intermediates/res/merged/debug/drawable_ic_add.png.flat",
@@ -170,6 +186,10 @@
     {
         "merged": "/home/abservetech/Downloads/post/app/build/intermediates/res/merged/debug/drawable_custom_border.xml.flat",
         "source": "/home/abservetech/Downloads/post/app/src/main/res/drawable/custom_border.xml"
+    },
+    {
+        "merged": "/home/abservetech/Downloads/post/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/abservetech/Downloads/post/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
         "merged": "/home/abservetech/Downloads/post/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_message.xml.flat",
@@ -188,10 +208,6 @@
         "source": "/home/abservetech/Downloads/post/app/src/main/res/drawable/custom_selected_textview.xml"
     },
     {
-        "merged": "/home/abservetech/Downloads/post/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "/home/abservetech/Downloads/post/app/src/main/res/mipmap-mdpi/ic_launcher.png"
-    },
-    {
         "merged": "/home/abservetech/Downloads/post/app/build/intermediates/res/merged/debug/drawable-xhdpi_message.png.flat",
         "source": "/home/abservetech/Downloads/post/app/build/generated/res/pngs/debug/drawable-xhdpi/message.png"
     },
@@ -202,6 +218,10 @@
     {
         "merged": "/home/abservetech/Downloads/post/app/build/intermediates/res/merged/debug/drawable_cornerbackgroundselect.xml.flat",
         "source": "/home/abservetech/Downloads/post/app/src/main/res/drawable/cornerbackgroundselect.xml"
+    },
+    {
+        "merged": "/home/abservetech/Downloads/post/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/abservetech/Downloads/post/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
         "merged": "/home/abservetech/Downloads/post/app/build/intermediates/res/merged/debug/drawable_ovalbackgroundselect.xml.flat",
@@ -228,12 +248,16 @@
         "source": "/home/abservetech/Downloads/post/app/src/main/res/layout/dateadapter.xml"
     },
     {
-        "merged": "/home/abservetech/Downloads/post/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "/home/abservetech/Downloads/post/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
-    },
-    {
         "merged": "/home/abservetech/Downloads/post/app/build/intermediates/res/merged/debug/drawable-hdpi_profile.png.flat",
         "source": "/home/abservetech/Downloads/post/app/build/generated/res/pngs/debug/drawable-hdpi/profile.png"
+    },
+    {
+        "merged": "/home/abservetech/Downloads/post/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/abservetech/Downloads/post/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/abservetech/Downloads/post/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/abservetech/Downloads/post/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
         "merged": "/home/abservetech/Downloads/post/app/build/intermediates/res/merged/debug/drawable-xxhdpi_message.png.flat",
@@ -246,6 +270,10 @@
     {
         "merged": "/home/abservetech/Downloads/post/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_message.png.flat",
         "source": "/home/abservetech/Downloads/post/app/build/generated/res/pngs/debug/drawable-xxxhdpi/message.png"
+    },
+    {
+        "merged": "/home/abservetech/Downloads/post/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/abservetech/Downloads/post/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
         "merged": "/home/abservetech/Downloads/post/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
@@ -274,13 +302,5 @@
     {
         "merged": "/home/abservetech/Downloads/post/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_profile.xml.flat",
         "source": "/home/abservetech/Downloads/post/app/build/generated/res/pngs/debug/drawable-anydpi-v24/profile.xml"
-    },
-    {
-        "merged": "/home/abservetech/Downloads/post/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "/home/abservetech/Downloads/post/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/home/abservetech/Downloads/post/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "/home/abservetech/Downloads/post/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
     }
 ]

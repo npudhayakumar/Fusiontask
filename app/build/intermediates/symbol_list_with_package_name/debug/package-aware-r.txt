@@ -3581,6 +3581,7 @@ layout text_view_without_line_height
 layout upcomingadapter
 menu drawernavigation
 mipmap ic_launcher
+mipmap ic_launcher_foreground
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description
 raw a_new_lang_template
