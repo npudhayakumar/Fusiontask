@@ -1,0 +1,99 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.JobStarEmployer.app"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->/home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:5:5-67
+11-->/home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:5:22-64
+12
+13    <application
+13-->/home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:6:5-42:19
+14        android:name="com.food.app.appControl.AppController"
+14-->/home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:7:13-65
+15        android:allowBackup="true"
+15-->/home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:8:13-39
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.6.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/cc8f021a30fdc81e8e5a0a53820f80c8/core-1.6.0/AndroidManifest.xml:24:18-86
+17        android:debuggable="true"
+18        android:icon="@mipmap/ic_launcher"
+18-->/home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:9:13-47
+19        android:label="@string/app_name"
+19-->/home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:10:13-45
+20        android:largeHeap="true"
+20-->/home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:11:13-37
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->/home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:12:13-58
+22        android:supportsRtl="true"
+22-->/home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:13:13-39
+23        android:testOnly="true"
+24        android:theme="@style/AppTheme"
+24-->/home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:14:13-44
+25        android:usesCleartextTraffic="true" >
+25-->/home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:15:13-48
+26        <activity
+26-->/home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:17:9-24:20
+27            android:name="com.food.app.view.activity.SplashActivity"
+27-->/home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:17:19-63
+28            android:exported="true" >
+28-->/home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:18:13-36
+29            <intent-filter>
+29-->/home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:19:13-23:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->/home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:20:17-68
+30-->/home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:20:25-66
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->/home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:22:17-76
+32-->/home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:22:27-74
+33            </intent-filter>
+34        </activity>
+35        <activity
+35-->/home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:25:9-28:20
+36            android:name="com.food.app.view.activity.Homeactivity"
+36-->/home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:25:19-61
+37            android:exported="true" >
+37-->/home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:26:17-40
+38        </activity>
+39        <activity
+39-->/home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:29:9-32:20
+40            android:name="com.food.app.view.activity.MainActivity"
+40-->/home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:29:19-61
+41            android:exported="true" >
+41-->/home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:30:17-40
+42        </activity>
+43
+44        <uses-library
+44-->/home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:34:9-36:43
+45            android:name="org.apache.http.legacy"
+45-->/home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:35:17-54
+46            android:required="false" />
+46-->/home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:36:17-41
+47
+48        <meta-data
+48-->/home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:37:9-39:61
+49            android:name="preloaded_fonts"
+49-->/home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:38:17-47
+50            android:resource="@array/preloaded_fonts" />
+50-->/home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:39:17-58
+51
+52        <provider
+52-->[androidx.lifecycle:lifecycle-process:2.2.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/66682bac27f64bb463b438dc006b709f/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
+53            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+53-->[androidx.lifecycle:lifecycle-process:2.2.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/66682bac27f64bb463b438dc006b709f/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79
+54            android:authorities="com.JobStarEmployer.app.lifecycle-process"
+54-->[androidx.lifecycle:lifecycle-process:2.2.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/66682bac27f64bb463b438dc006b709f/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
+55            android:exported="false"
+55-->[androidx.lifecycle:lifecycle-process:2.2.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/66682bac27f64bb463b438dc006b709f/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
+56            android:multiprocess="true" />
+56-->[androidx.lifecycle:lifecycle-process:2.2.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/66682bac27f64bb463b438dc006b709f/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
+57    </application>
+58
+59</manifest>

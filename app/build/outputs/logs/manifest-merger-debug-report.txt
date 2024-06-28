@@ -1,0 +1,340 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:2:1-44:12
+MERGED from [androidx.databinding:databinding-adapters:4.0.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/78de48537f47c47c2e3be0ec46cf1045/databinding-adapters-4.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:4.0.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/3f5423e23ce793b48c43afd78a3916f9/databinding-runtime-4.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.3.0-alpha03] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/338f19765f6a344b9628486a8187a170/material-1.3.0-alpha03/AndroidManifest.xml:17:1-24:12
+MERGED from [org.koin:koin-androidx-viewmodel:2.0.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/de113963ddbebc169f6aedc77be8367f/jetified-koin-androidx-viewmodel-2.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [org.koin:koin-androidx-scope:2.0.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/00ae0478f34b0231760003a773eca1e6/jetified-koin-androidx-scope-2.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.hbb20:ccp:2.6.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/82bc2bb2cfe22ce1edbf9f4b4a5726eb/jetified-ccp-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/810bc0023f39274b6f9bc838d32f9df6/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/069b48573e0d554b7450b49c6b47de12/appcompat-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/8980d788014fcfbd6a5e16fdd30ae692/jetified-core-ktx-1.3.1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/bf8b737aa06780ce71e42516cac8efab/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/13b19a06d3f5b7b04eed059dc067b0a9/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/3d4f81a582a484e56c4e7212231a5fd7/jetified-glide-4.11.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/4641752ec657f9b4a42d6a06f25d7d22/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/4105de63edbfe1f7a89f44426cee4e60/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/484b16f1e5940703d264a70e13a14e3d/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/70813c6d8a430560dede9c36f4d5ccc7/recyclerview-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/ae0d43a8cd9e2d0dca0ee7612d373384/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.multidex:multidex:2.0.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/069b895255ebcf7eb07d3df82289b116/multidex-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/5d59cbe68ca8fceb76299a9e9d9816ed/jetified-sdp-android-1.0.6/AndroidManifest.xml:2:1-11:12
+MERGED from [com.jakewharton.timber:timber:4.7.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/7ec1197eff5064f927c1d0ae841c5523/jetified-timber-4.7.1/AndroidManifest.xml:2:1-9:12
+MERGED from [id.zelory:compressor:2.1.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/06ed0916f2977a0c493ac2d29e8e4515/jetified-compressor-2.1.0/AndroidManifest.xml:2:1-12:12
+MERGED from [com.jakewharton.rxbinding3:rxbinding:3.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/8fa9d36d529e69fe562699a44c72621b/jetified-rxbinding-3.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/a8812d66db62e9b26d6c1f501a43308f/jetified-rxandroid-2.1.1/AndroidManifest.xml:15:1-20:12
+MERGED from [io.github.inflationx:calligraphy3:3.1.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/9090e8d4e5d8c9e225e340f1eccc32b4/jetified-calligraphy3-3.1.1/AndroidManifest.xml:2:1-13:12
+MERGED from [io.github.inflationx:viewpump:2.0.3] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/a257422d8f5205184f2a36bc869a3779/jetified-viewpump-2.0.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/ecbbc505c1ef8c2b1e510cce5e96bb37/lifecycle-extensions-2.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/43a917f9534cb05f0a20bd294163eceb/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [org.koin:koin-android:2.0.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/72134a1ebf0da9084a7d46c90e352615/jetified-koin-android-2.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [org.greenrobot:eventbus:3.3.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/2ed6968e5b429330b283114103da978c/jetified-eventbus-3.3.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.joielechong:countrycodepicker:2.4.2] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/5b29362c7ab409f9192a8111cf74d3d1/jetified-countrycodepicker-2.4.2/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.databinding:viewbinding:4.0.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/b489210023b4e591650fd25144ad3624/jetified-viewbinding-4.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/66682bac27f64bb463b438dc006b709f/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/2cfe5f060ac9f62571b78a610b8cc5b5/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/7d26c1198e9e9b91c6c8304fbdc008ea/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/24e0220640645498700fd025d00cbee9/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/a95c327e53d3f8b7c448585ab391c496/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/76e2c37ae32353ccc0fe554bfc39f522/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/9851228a28131c6e079209b1996b47a5/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/e960c38ba3074b13a07325926ae4b3e7/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/2e4afd5be29019635f2ee75da7876016/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/c12747f68fadffbb0e0ad871896b687f/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/2a612bd4c425dcfbfc1a3a304e287881/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/1376040c7d3147fc2c401857e5e5a47d/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/a30017872b14105a400314921d5cb62e/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/6f621cac338d61e4657df2851636b5fa/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/7883f5b2dab973bb3ded7066b810b9ab/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/4ce449428576c173262907fc1e6b1200/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.2.4] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/3a7b9895d1029bc860185a28d30b65e9/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.6.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/cc8f021a30fdc81e8e5a0a53820f80c8/core-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/d6c7ce450f9ebc8430af702e32ebe5cd/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/42e417888b7fa8816956cfb5aa1a5f2e/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/cfa4e63f8e91dc956c50d4c8b23ea37e/jetified-gifdecoder-4.11.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/1810aea4ce2a1227f21772ff132d1844/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/adab60b679fd605dc0fe365f8feea7d6/lifecycle-livedata-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/24ff8e4dfa9aeafac05c1400c4963cd1/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/91614f5a3c84466f5ac9a95823f64b66/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/ca6f5dc978f1f081f1b8afbaed8e2aeb/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/9445bff72d8d318eaf50e956534e8dfd/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/7ab9174479fb69088763d43ae7121c6c/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/f99660dd63e7ed3a1e117a2af2f25bf8/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/0a9c6c10530aac001e1e59b7495bfbcb/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/6ba1de9be899b775fb2e622bcf9ee329/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/22f084678c0c8123034752ff82b9a006/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/0c9ec9ce6213294f6c207b0e55eb01df/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/ed499eaa3591d3d55dedcb5c8aa39672/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/ce516cce569a0e1ef91de90276d19fbd/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [io.michaelrocks:libphonenumber-android:8.12.28] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/bd67dacbf7377bd20037030d390a3920/jetified-libphonenumber-android-8.12.28/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:3:11-33
+		INJECTED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml
+		INJECTED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml
+		ADDED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:2:1-44:12
+		INJECTED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml
+		ADDED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:2:1-44:12
+		INJECTED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:6:5-42:19
+MERGED from [com.google.android.material:material:1.3.0-alpha03] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/338f19765f6a344b9628486a8187a170/material-1.3.0-alpha03/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0-alpha03] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/338f19765f6a344b9628486a8187a170/material-1.3.0-alpha03/AndroidManifest.xml:22:5-20
+MERGED from [org.koin:koin-androidx-viewmodel:2.0.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/de113963ddbebc169f6aedc77be8367f/jetified-koin-androidx-viewmodel-2.0.1/AndroidManifest.xml:7:5-20
+MERGED from [org.koin:koin-androidx-viewmodel:2.0.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/de113963ddbebc169f6aedc77be8367f/jetified-koin-androidx-viewmodel-2.0.1/AndroidManifest.xml:7:5-20
+MERGED from [org.koin:koin-androidx-scope:2.0.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/00ae0478f34b0231760003a773eca1e6/jetified-koin-androidx-scope-2.0.1/AndroidManifest.xml:7:5-20
+MERGED from [org.koin:koin-androidx-scope:2.0.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/00ae0478f34b0231760003a773eca1e6/jetified-koin-androidx-scope-2.0.1/AndroidManifest.xml:7:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/810bc0023f39274b6f9bc838d32f9df6/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/810bc0023f39274b6f9bc838d32f9df6/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/3d4f81a582a484e56c4e7212231a5fd7/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/3d4f81a582a484e56c4e7212231a5fd7/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/7ec1197eff5064f927c1d0ae841c5523/jetified-timber-4.7.1/AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/7ec1197eff5064f927c1d0ae841c5523/jetified-timber-4.7.1/AndroidManifest.xml:7:5-20
+MERGED from [io.github.inflationx:calligraphy3:3.1.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/9090e8d4e5d8c9e225e340f1eccc32b4/jetified-calligraphy3-3.1.1/AndroidManifest.xml:11:5-20
+MERGED from [io.github.inflationx:calligraphy3:3.1.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/9090e8d4e5d8c9e225e340f1eccc32b4/jetified-calligraphy3-3.1.1/AndroidManifest.xml:11:5-20
+MERGED from [io.github.inflationx:viewpump:2.0.3] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/a257422d8f5205184f2a36bc869a3779/jetified-viewpump-2.0.3/AndroidManifest.xml:9:5-20
+MERGED from [io.github.inflationx:viewpump:2.0.3] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/a257422d8f5205184f2a36bc869a3779/jetified-viewpump-2.0.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/ecbbc505c1ef8c2b1e510cce5e96bb37/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/ecbbc505c1ef8c2b1e510cce5e96bb37/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/66682bac27f64bb463b438dc006b709f/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/66682bac27f64bb463b438dc006b709f/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.core:core:1.6.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/cc8f021a30fdc81e8e5a0a53820f80c8/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/cc8f021a30fdc81e8e5a0a53820f80c8/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/42e417888b7fa8816956cfb5aa1a5f2e/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/42e417888b7fa8816956cfb5aa1a5f2e/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/cfa4e63f8e91dc956c50d4c8b23ea37e/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/cfa4e63f8e91dc956c50d4c8b23ea37e/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/cc8f021a30fdc81e8e5a0a53820f80c8/core-1.6.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:13:13-39
+	android:label
+		ADDED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:10:13-45
+	android:roundIcon
+		ADDED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:12:13-58
+	android:largeHeap
+		ADDED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:11:13-37
+	android:icon
+		ADDED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:9:13-47
+	android:allowBackup
+		ADDED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:8:13-39
+	android:theme
+		ADDED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:14:13-44
+	android:usesCleartextTraffic
+		ADDED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:15:13-48
+	android:name
+		ADDED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:7:13-65
+activity#com.food.app.view.activity.SplashActivity
+ADDED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:17:9-24:20
+	android:exported
+		ADDED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:18:13-36
+	android:name
+		ADDED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:17:19-63
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:20:17-68
+	android:name
+		ADDED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:22:17-76
+	android:name
+		ADDED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:22:27-74
+activity#com.food.app.view.activity.Homeactivity
+ADDED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:25:9-28:20
+	android:exported
+		ADDED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:26:17-40
+	android:name
+		ADDED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:25:19-61
+activity#com.food.app.view.activity.MainActivity
+ADDED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:29:9-32:20
+	android:exported
+		ADDED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:30:17-40
+	android:name
+		ADDED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:29:19-61
+uses-library#org.apache.http.legacy
+ADDED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:34:9-36:43
+	android:required
+		ADDED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:36:17-41
+	android:name
+		ADDED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:35:17-54
+meta-data#preloaded_fonts
+ADDED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:37:9-39:61
+	android:resource
+		ADDED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:39:17-58
+	android:name
+		ADDED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml:38:17-47
+uses-sdk
+INJECTED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml
+INJECTED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:4.0.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/78de48537f47c47c2e3be0ec46cf1045/databinding-adapters-4.0.1/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:4.0.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/78de48537f47c47c2e3be0ec46cf1045/databinding-adapters-4.0.1/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:4.0.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/3f5423e23ce793b48c43afd78a3916f9/databinding-runtime-4.0.1/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:4.0.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/3f5423e23ce793b48c43afd78a3916f9/databinding-runtime-4.0.1/AndroidManifest.xml:22:5-44
+MERGED from [com.google.android.material:material:1.3.0-alpha03] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/338f19765f6a344b9628486a8187a170/material-1.3.0-alpha03/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0-alpha03] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/338f19765f6a344b9628486a8187a170/material-1.3.0-alpha03/AndroidManifest.xml:20:5-44
+MERGED from [org.koin:koin-androidx-viewmodel:2.0.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/de113963ddbebc169f6aedc77be8367f/jetified-koin-androidx-viewmodel-2.0.1/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-androidx-viewmodel:2.0.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/de113963ddbebc169f6aedc77be8367f/jetified-koin-androidx-viewmodel-2.0.1/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-androidx-scope:2.0.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/00ae0478f34b0231760003a773eca1e6/jetified-koin-androidx-scope-2.0.1/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-androidx-scope:2.0.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/00ae0478f34b0231760003a773eca1e6/jetified-koin-androidx-scope-2.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.hbb20:ccp:2.6.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/82bc2bb2cfe22ce1edbf9f4b4a5726eb/jetified-ccp-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.hbb20:ccp:2.6.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/82bc2bb2cfe22ce1edbf9f4b4a5726eb/jetified-ccp-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/810bc0023f39274b6f9bc838d32f9df6/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/810bc0023f39274b6f9bc838d32f9df6/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/069b48573e0d554b7450b49c6b47de12/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/069b48573e0d554b7450b49c6b47de12/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/8980d788014fcfbd6a5e16fdd30ae692/jetified-core-ktx-1.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/8980d788014fcfbd6a5e16fdd30ae692/jetified-core-ktx-1.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/bf8b737aa06780ce71e42516cac8efab/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/bf8b737aa06780ce71e42516cac8efab/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/13b19a06d3f5b7b04eed059dc067b0a9/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/13b19a06d3f5b7b04eed059dc067b0a9/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/3d4f81a582a484e56c4e7212231a5fd7/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/3d4f81a582a484e56c4e7212231a5fd7/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/4641752ec657f9b4a42d6a06f25d7d22/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/4641752ec657f9b4a42d6a06f25d7d22/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/4105de63edbfe1f7a89f44426cee4e60/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/4105de63edbfe1f7a89f44426cee4e60/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/484b16f1e5940703d264a70e13a14e3d/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/484b16f1e5940703d264a70e13a14e3d/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/70813c6d8a430560dede9c36f4d5ccc7/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/70813c6d8a430560dede9c36f4d5ccc7/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/ae0d43a8cd9e2d0dca0ee7612d373384/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/ae0d43a8cd9e2d0dca0ee7612d373384/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.multidex:multidex:2.0.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/069b895255ebcf7eb07d3df82289b116/multidex-2.0.1/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/069b895255ebcf7eb07d3df82289b116/multidex-2.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/5d59cbe68ca8fceb76299a9e9d9816ed/jetified-sdp-android-1.0.6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/5d59cbe68ca8fceb76299a9e9d9816ed/jetified-sdp-android-1.0.6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.jakewharton.timber:timber:4.7.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/7ec1197eff5064f927c1d0ae841c5523/jetified-timber-4.7.1/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton.timber:timber:4.7.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/7ec1197eff5064f927c1d0ae841c5523/jetified-timber-4.7.1/AndroidManifest.xml:5:5-43
+MERGED from [id.zelory:compressor:2.1.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/06ed0916f2977a0c493ac2d29e8e4515/jetified-compressor-2.1.0/AndroidManifest.xml:8:5-10:41
+MERGED from [id.zelory:compressor:2.1.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/06ed0916f2977a0c493ac2d29e8e4515/jetified-compressor-2.1.0/AndroidManifest.xml:8:5-10:41
+MERGED from [com.jakewharton.rxbinding3:rxbinding:3.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/8fa9d36d529e69fe562699a44c72621b/jetified-rxbinding-3.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.rxbinding3:rxbinding:3.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/8fa9d36d529e69fe562699a44c72621b/jetified-rxbinding-3.0.0/AndroidManifest.xml:5:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/a8812d66db62e9b26d6c1f501a43308f/jetified-rxandroid-2.1.1/AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/a8812d66db62e9b26d6c1f501a43308f/jetified-rxandroid-2.1.1/AndroidManifest.xml:18:5-43
+MERGED from [io.github.inflationx:calligraphy3:3.1.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/9090e8d4e5d8c9e225e340f1eccc32b4/jetified-calligraphy3-3.1.1/AndroidManifest.xml:7:5-9:41
+MERGED from [io.github.inflationx:calligraphy3:3.1.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/9090e8d4e5d8c9e225e340f1eccc32b4/jetified-calligraphy3-3.1.1/AndroidManifest.xml:7:5-9:41
+MERGED from [io.github.inflationx:viewpump:2.0.3] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/a257422d8f5205184f2a36bc869a3779/jetified-viewpump-2.0.3/AndroidManifest.xml:5:5-7:41
+MERGED from [io.github.inflationx:viewpump:2.0.3] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/a257422d8f5205184f2a36bc869a3779/jetified-viewpump-2.0.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/ecbbc505c1ef8c2b1e510cce5e96bb37/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/ecbbc505c1ef8c2b1e510cce5e96bb37/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/43a917f9534cb05f0a20bd294163eceb/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/43a917f9534cb05f0a20bd294163eceb/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [org.koin:koin-android:2.0.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/72134a1ebf0da9084a7d46c90e352615/jetified-koin-android-2.0.1/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-android:2.0.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/72134a1ebf0da9084a7d46c90e352615/jetified-koin-android-2.0.1/AndroidManifest.xml:5:5-44
+MERGED from [org.greenrobot:eventbus:3.3.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/2ed6968e5b429330b283114103da978c/jetified-eventbus-3.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [org.greenrobot:eventbus:3.3.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/2ed6968e5b429330b283114103da978c/jetified-eventbus-3.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.joielechong:countrycodepicker:2.4.2] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/5b29362c7ab409f9192a8111cf74d3d1/jetified-countrycodepicker-2.4.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.joielechong:countrycodepicker:2.4.2] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/5b29362c7ab409f9192a8111cf74d3d1/jetified-countrycodepicker-2.4.2/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.databinding:viewbinding:4.0.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/b489210023b4e591650fd25144ad3624/jetified-viewbinding-4.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.0.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/b489210023b4e591650fd25144ad3624/jetified-viewbinding-4.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/66682bac27f64bb463b438dc006b709f/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/66682bac27f64bb463b438dc006b709f/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/2cfe5f060ac9f62571b78a610b8cc5b5/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/2cfe5f060ac9f62571b78a610b8cc5b5/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/7d26c1198e9e9b91c6c8304fbdc008ea/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/7d26c1198e9e9b91c6c8304fbdc008ea/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/24e0220640645498700fd025d00cbee9/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/24e0220640645498700fd025d00cbee9/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/a95c327e53d3f8b7c448585ab391c496/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/a95c327e53d3f8b7c448585ab391c496/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/76e2c37ae32353ccc0fe554bfc39f522/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/76e2c37ae32353ccc0fe554bfc39f522/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/9851228a28131c6e079209b1996b47a5/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/9851228a28131c6e079209b1996b47a5/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/e960c38ba3074b13a07325926ae4b3e7/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/e960c38ba3074b13a07325926ae4b3e7/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/2e4afd5be29019635f2ee75da7876016/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/2e4afd5be29019635f2ee75da7876016/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/c12747f68fadffbb0e0ad871896b687f/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/c12747f68fadffbb0e0ad871896b687f/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/2a612bd4c425dcfbfc1a3a304e287881/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/2a612bd4c425dcfbfc1a3a304e287881/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/1376040c7d3147fc2c401857e5e5a47d/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/1376040c7d3147fc2c401857e5e5a47d/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/a30017872b14105a400314921d5cb62e/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/a30017872b14105a400314921d5cb62e/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/6f621cac338d61e4657df2851636b5fa/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/6f621cac338d61e4657df2851636b5fa/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/7883f5b2dab973bb3ded7066b810b9ab/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/7883f5b2dab973bb3ded7066b810b9ab/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/4ce449428576c173262907fc1e6b1200/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/4ce449428576c173262907fc1e6b1200/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.2.4] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/3a7b9895d1029bc860185a28d30b65e9/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/3a7b9895d1029bc860185a28d30b65e9/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/cc8f021a30fdc81e8e5a0a53820f80c8/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/cc8f021a30fdc81e8e5a0a53820f80c8/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/d6c7ce450f9ebc8430af702e32ebe5cd/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/d6c7ce450f9ebc8430af702e32ebe5cd/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/42e417888b7fa8816956cfb5aa1a5f2e/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/42e417888b7fa8816956cfb5aa1a5f2e/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/cfa4e63f8e91dc956c50d4c8b23ea37e/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/cfa4e63f8e91dc956c50d4c8b23ea37e/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/1810aea4ce2a1227f21772ff132d1844/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/1810aea4ce2a1227f21772ff132d1844/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/adab60b679fd605dc0fe365f8feea7d6/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/adab60b679fd605dc0fe365f8feea7d6/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/24ff8e4dfa9aeafac05c1400c4963cd1/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/24ff8e4dfa9aeafac05c1400c4963cd1/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/91614f5a3c84466f5ac9a95823f64b66/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/91614f5a3c84466f5ac9a95823f64b66/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/ca6f5dc978f1f081f1b8afbaed8e2aeb/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/ca6f5dc978f1f081f1b8afbaed8e2aeb/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/9445bff72d8d318eaf50e956534e8dfd/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/9445bff72d8d318eaf50e956534e8dfd/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/7ab9174479fb69088763d43ae7121c6c/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/7ab9174479fb69088763d43ae7121c6c/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/f99660dd63e7ed3a1e117a2af2f25bf8/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/f99660dd63e7ed3a1e117a2af2f25bf8/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/0a9c6c10530aac001e1e59b7495bfbcb/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/0a9c6c10530aac001e1e59b7495bfbcb/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/6ba1de9be899b775fb2e622bcf9ee329/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/6ba1de9be899b775fb2e622bcf9ee329/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/22f084678c0c8123034752ff82b9a006/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/22f084678c0c8123034752ff82b9a006/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/0c9ec9ce6213294f6c207b0e55eb01df/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/0c9ec9ce6213294f6c207b0e55eb01df/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/ed499eaa3591d3d55dedcb5c8aa39672/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/ed499eaa3591d3d55dedcb5c8aa39672/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/ce516cce569a0e1ef91de90276d19fbd/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/ce516cce569a0e1ef91de90276d19fbd/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [io.michaelrocks:libphonenumber-android:8.12.28] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/bd67dacbf7377bd20037030d390a3920/jetified-libphonenumber-android-8.12.28/AndroidManifest.xml:5:5-7:41
+MERGED from [io.michaelrocks:libphonenumber-android:8.12.28] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/bd67dacbf7377bd20037030d390a3920/jetified-libphonenumber-android-8.12.28/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml
+INJECTED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml
+		ADDED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml
+		INJECTED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml
+		ADDED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml
+		INJECTED from /home/abservetech/Downloads/post/app/src/main/AndroidManifest.xml
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/66682bac27f64bb463b438dc006b709f/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/66682bac27f64bb463b438dc006b709f/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/66682bac27f64bb463b438dc006b709f/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/66682bac27f64bb463b438dc006b709f/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/abservetech/Documents/abservetech projects/Posterior/fusiontask/caches/transforms-2/files-2.1/66682bac27f64bb463b438dc006b709f/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79
